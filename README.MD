@@ -8,3 +8,7 @@ There is no consensus (from mod creators) of *what* form of Japanese should be i
 - [Song ID List](https://docs.google.com/spreadsheets/d/19ZDbcFfMZHHQWNZD2voBrbKJFRxshdSSt9xknNxSVLM/edit)
 - [LyricsPatch](https://gamebanana.com/mods/414986)
 - [Generator](https://github.com/Jay184/megamixplus-lyrics-generator)
+
+```Batch
+mklink /J "LyricsPatch\lyrics" "path\to\repo\lyrics"
+```
